@@ -1,0 +1,1 @@
+7/11 - https://learning.oreilly.com/library/view/spring-boot-in/9781617292545/kindle_split_009.html#:-:text=2.3.%20Using%20automatic%20configuration%20
